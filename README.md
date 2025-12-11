@@ -10,5 +10,6 @@ Um CRUD básico feito em Python que salva os dados em um arquivo JSON.
 - Salvar e carregar dados do arquivo `usuarios.json`
 
 ## Como executar
-Execute no terminal:
+Execute no terminal.
+
 
